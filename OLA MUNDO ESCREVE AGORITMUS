@@ -1,0 +1,12 @@
+programa
+{
+	
+	funcao inicio()
+	{
+		cadeia ola
+		cadeia mundo
+		ola = ("ola ")
+		mundo = ("mundo")
+		escreva(ola, mundo)
+	}
+}
